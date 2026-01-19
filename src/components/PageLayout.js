@@ -1,6 +1,5 @@
 import React from "react";
 
-// PageLayout component
 const PageLayout = ({ header, footer, children }) => {
   return (
     <div>
